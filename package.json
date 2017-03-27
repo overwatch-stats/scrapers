@@ -1,6 +1,6 @@
 {
   "name": "overwatch-stats-scrapers",
-  "description": "Stat scrapers for Overwatch",
+  "description": "An unofficial collection of stats scrapers for Overwatch",
   "private": false,
   "version": "0.0.1",
   "devDependencies": {
