@@ -13,7 +13,7 @@
   "dependencies": {
     "camelcase": "^4.0.0",
     "cheerio": "^0.22.0",
-    "node-fetch": "^1.6.3",d
+    "node-fetch": "^1.6.3",
     "overwatch-stats-entities": "git+ssh://github.com/overwatch-stats/entities.git"
   }
 }
