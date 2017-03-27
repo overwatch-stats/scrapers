@@ -2,6 +2,7 @@
   "name": "overwatch-stats-scrapers",
   "description": "An unofficial collection of stats scrapers for Overwatch",
   "private": false,
+  "main": "src/index.js",
   "version": "0.0.1",
   "devDependencies": {
     "babel-eslint": "^7.1.0",
