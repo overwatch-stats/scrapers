@@ -1,0 +1,19 @@
+{
+  "name": "overwatch-stats-scrapers",
+  "description": "Stat scrapers for Overwatch",
+  "private": false,
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-eslint": "^7.1.0",
+    "eslint": "^3.8.1",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.3.0",
+    "eslint-plugin-standard": "^2.0.1"
+  },
+  "dependencies": {
+    "camelcase": "^4.0.0",
+    "cheerio": "^0.22.0",
+    "node-fetch": "^1.6.3",d
+    "overwatch-stats-entities": "git+ssh://github.com/overwatch-stats/entities.git"
+  }
+}
